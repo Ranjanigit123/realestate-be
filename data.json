@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Regmi Niwass",
+        "description": "Mumbai, 11B road",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiGD958chwoVx6TmUSkxrs8-CeSYd0jXQ-g&s",
+        "contact": "+91 9887654321",
+        "price": 200000,
+        "area": 50
+             
+    },
+    {
+        "title": "Golden Palace",
+        "description": "Delhi, Nehru Road",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMFikTWDbX3Tm6A74pxMMxrpQ-rsVUccqEg&s",
+        "contact": "+91 9887654320",
+        "price": 900000,
+        "area": 70
+             
+    },
+    {
+        "title": "Varsha Garden",
+        "description": "Kerala, 13G Road",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjoDPVoyJmQwrKNz8Fk3s7PvqljmeV7CFLg&s",
+        "contact": "+91 9887654328",
+        "price": 700000,
+        "area": 50
+             
+    }
+]
