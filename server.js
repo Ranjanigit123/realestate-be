@@ -17,13 +17,13 @@ const MONGO_URL =
 "mongodb+srv://ranjanirithu206:KS0pwc1jwcIxmZu0@cluster0.8mgcr.mongodb.net/MEAN?retryWrites=true&w=majority";
 
 
-mongoose.connect(MONGO_URL)
+mongoose.connect(MONGO_URL, {
 
 //mongoose.connect("mongodb://localhost:27017/real_estate", {
-    //useNewUrlParser: true,
-    //useUnifiedTopology: true,
-//}).then(() => {
-    .then(() => {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+}).then(() => {
+    //.then(() => {
     console.log("Connected to MongoDB");
 }).catch((error) => {
     console.error("MongoDB connection error:", error);
